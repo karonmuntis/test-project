@@ -1,5 +1,5 @@
 <?php
-$access_token = 'u4n6MpImlmxXmRNBKGID8f2kr6gkBd6CIvM3ShNCOMw7JankVfi+NImgx1n/4gjfxY/ydYN3utiop0CjjqpJR1UWIk7XQO5rBO5mZToVjl8IhrgeNibivuBVpaPJJ2rjybN3hkz1RvgwzTXlxdgXvAdB04t89/1O/w1cDnyilFU=';
+$access_token = 'wSglDfYhfE/lDsi44V0pB19s+ib2bUeE5rrjeFWwTsQnyEFHLmXHOaTPXicqwpowxgrkbMxfnFsWy74GOjc+uRF21EJTEvnwT9by1lOo7RWmzQGNF4Rh59sqK5flz2Y1lqUgFakghR8tX8K26uXWkFGUYhWQfeY8sLGRXgo3xvw=';
 
 // APIから送信されてきたイベントオブジェクトを取得
 $json_string = file_get_contents('php://input');
